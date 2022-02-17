@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalVPM_DataCollector", "DigitalVPM_DataCollector\DigitalVPM_DataCollector.csproj", "{2CC48AAE-1432-4E73-B808-E7AED805BF1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC48AAE-1432-4E73-B808-E7AED805BF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC48AAE-1432-4E73-B808-E7AED805BF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC48AAE-1432-4E73-B808-E7AED805BF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC48AAE-1432-4E73-B808-E7AED805BF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D552AE9B-785E-401E-902C-942EAA82700E}
+	EndGlobalSection
+EndGlobal
